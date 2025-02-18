@@ -142,12 +142,4 @@ Safety Analysis Screenshot
 Maintenance Recommendations:
 Maintenance Screenshot
 
-📧 Contact
-For questions or feedback, please contact:
-[Your Name]
-[Your Email]
-[Your GitHub Profile]
 
-This project is designed to make school bus operations safer and more efficient by leveraging data-driven insights. Explore the code, try the application, and contribute to its development! 🚌✨
-
-New chat
